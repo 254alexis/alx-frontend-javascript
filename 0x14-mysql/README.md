@@ -1,1 +1,0 @@
-# MySQL for web servers
